@@ -1,0 +1,22 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "An application used to quickly write a README file. Meant to help developers save time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jtaustin19/pro-readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jtaustin19/pro-readme-generator/issues"
+  },
+  "homepage": "https://github.com/Jtaustin19/pro-readme-generator#readme"
+}
