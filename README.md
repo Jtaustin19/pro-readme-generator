@@ -17,14 +17,14 @@ An application used to quickly write a README file. Meant to help developers sav
 * [Requires Node.js](https://nodejs.org/en/)
 
 See video:
-[installation](https://drive.google.com/file/d/1OtCXvpLP1ArIfznQT6QKVLwoyh1iin7v/view)
+[installation]()
 
 ## Usage
 * Navigate to the root of readme-generator in command line. (ex. 'cd readme-generator-main')
 * Type 'node index.js' into command line and answer prompts.
 
 See video:
-[usage](https://drive.google.com/file/d/10p18rTL6BSke8uY-UOEXfkOZ3M1f0rkq/view)
+[usage]()
 
 ## License
 MIT: Copyright (c) 2021 Joshua Austin
